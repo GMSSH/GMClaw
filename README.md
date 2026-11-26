@@ -1,10 +1,11 @@
 # 🚀 GMClaw
+> Part of the **GMSSH (极目桌面) ecosystem** · Website <https://www.gm.cn> · Docs <https://doc.gm.cn> · Community <https://hub.gm.cn>
 
 🦞 **Your Personal AI Assistant**  
 An All-in-One Management Application Built on the [GMSSH](https://web.gmssh.com) Ecosystem 
 
-[![Chinese](https://img.shields.io/badge/Lang-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-brightgreen)](https://github.com/GMSSH/OpenClaw-Turbo/blob/main/README.cn.md)
-[![English](http://img.shields.io/badge/Lang-English-blue)](https://github.com/GMSSH/OpenClaw-Turbo/blob/main/README.md)
+[![Chinese](https://img.shields.io/badge/Lang-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-brightgreen)](https://github.com/GMSSH/GMClaw/blob/main/README.cn.md)
+[![English](http://img.shields.io/badge/Lang-English-blue)](https://github.com/GMSSH/GMClaw/blob/main/README.md)
 ---
 
 **More Secure · Better Chinese Understanding · Optimized for Domestic IM Infrastructure**
